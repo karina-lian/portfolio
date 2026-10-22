@@ -1,4 +1,7 @@
 title: Karina Lian
-logo: /images/Profile picture.jpg
+params:
+  sidebar:
+    avatar: "images/Profile picture.jpg"
+    crop: "circle" # Some themes use a crop setting
 #description: 
 theme: jekyll-theme-minimal
